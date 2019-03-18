@@ -1,6 +1,6 @@
 # Image-Processing-using-Keras-and-Raspberry-Pi
 
-Datset:
+Dataset:
 https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog/data
 
 References:
